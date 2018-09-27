@@ -620,6 +620,9 @@
 		"PageTriageEnableOresFilters": {
 			"value": false
 		},
+		"PageTriageEnableCopyvio": {
+			"value": false
+		},
 		"PageTriageMaxAge": {
 			"value": 90
 		},
